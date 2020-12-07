@@ -143,7 +143,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BOPJGWDX
 
 [Document7]
-DocumentPath=SolenoidsAndPressure.SchDoc
+DocumentPath=Solenoids.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -228,23 +228,6 @@ GenerateClassCluster=0
 DocumentUniqueId=GRHPKYFU
 
 [Document12]
-DocumentPath=lvds.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=11
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=IAVXKOOF
-
-[Document13]
 DocumentPath=Quail.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -261,7 +244,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document13]
 DocumentPath=Radio.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -278,24 +261,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
-DocumentPath=ADC.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VXWPKDJK
-
-[Document16]
+[Document14]
 DocumentPath=PressureTransducer.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -312,7 +278,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CFERASSB
 
-[Document17]
+[Document15]
 DocumentPath=Thermocouple.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -329,7 +295,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JDGFPBOU
 
-[Document18]
+[Document16]
 DocumentPath=LoadCell.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -346,7 +312,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VYERPNIA
 
-[Document19]
+[Document17]
 DocumentPath=AnalogFE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -363,7 +329,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SWQMQDYF
 
-[Document20]
+[Document18]
 DocumentPath=Ethernet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -380,7 +346,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HGSRXSJP
 
-[Document21]
+[Document19]
 DocumentPath=AnalogFE.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -397,29 +363,46 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document20]
+DocumentPath=LevelShifter.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [Parameter1]
-Name=prjEngineer1
-Value=Damian Loya
+Name=prjTitle
+Value=Quail
 
 [Parameter2]
-Name=prjEngineer2
-Value=Matthew Pauly
-
-[Parameter3]
-Name=prjReviewDate
-Value=
-
-[Parameter4]
-Name=prjReviewer
-Value=
-
-[Parameter5]
 Name=prjRevision
 Value=1.0
 
+[Parameter3]
+Name=prjReviewer
+Value=
+
+[Parameter4]
+Name=prjReviewDate
+Value=
+
+[Parameter5]
+Name=prjEngineer2
+Value=Matthew Pauly
+
 [Parameter6]
-Name=prjTitle
-Value=Quail
+Name=prjEngineer1
+Value=Damian Loya
 
 [Configuration1]
 Name=Default Configuration
@@ -637,7 +620,7 @@ OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType9=Schematic Print
 OutputName9=Schematic Prints
-OutputDocumentPath9=C:\Users\thoma\OneDrive\Documents\_Stanford Work\Extracurricular\SSI SVN Data\libraries\templates\SSI_PCB\SSI_Sch_Template.SchDoc
+OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
 PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
