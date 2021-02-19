@@ -502,28 +502,28 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=prjEngineer1
-Value=Tim Vrakas
+Name=prjTitle
+Value=Quail
 
 [Parameter2]
-Name=prjEngineer2
-Value=Damian Loya
+Name=prjRevision
+Value=3.0
 
 [Parameter3]
-Name=prjReviewDate
-Value=
-
-[Parameter4]
 Name=prjReviewer
 Value=
 
+[Parameter4]
+Name=prjReviewDate
+Value=
+
 [Parameter5]
-Name=prjRevision
-Value=1.0
+Name=prjEngineer2
+Value=Damian Loya
 
 [Parameter6]
-Name=prjTitle
-Value=Quail
+Name=prjEngineer1
+Value=Tim Vrakas
 
 [Configuration1]
 Name=Default Configuration
