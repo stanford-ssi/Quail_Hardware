@@ -1,6 +1,7 @@
 ### Altium ###
 # Previews Folders
 **/__Previews/
+_git*
 
 # History Folders
 **/History/*
@@ -9,7 +10,12 @@
 Project Logs*/
 
 # Project Outputs
-Project Outputs*/
+**.gbr
+**.APR_LIB
+**.EXTREP
+**.REP
+**.RUL
+**.apr
 
 # Auto-conversion notices
 *.PcbDoc.htm
