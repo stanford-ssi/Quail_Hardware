@@ -527,6 +527,70 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UNKWFUIG
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Quail_3.0\GerberX2\Quail.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Quail_3.0\GerberX2\Quail.REP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Quail_3.0\GerberX2\Quail.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Quail_3.0\ExportSTEP\Quail.step
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Quail_3.0\GerberX2\Quail_Copper_Signal_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Quail_3.0\GerberX2\Quail_Copper_Signal_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Quail_3.0\GerberX2\Quail_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Quail_3.0\GerberX2\Quail_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Quail_3.0\GerberX2\Quail_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Quail_3.0\GerberX2\Quail_NPTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Quail_3.0\GerberX2\Quail_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Quail_3.0\GerberX2\Quail_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Quail_3.0\GerberX2\Quail_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Quail_3.0\GerberX2\Quail_PTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Quail_3.0\GerberX2\Quail_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Quail_3.0\GerberX2\Quail_Soldermask_Top.gbr
+DItemRevisionGUID=
+
 [Parameter1]
 Name=prjEngineer1
 Value=Tim Vrakas
