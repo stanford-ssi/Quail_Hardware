@@ -533,7 +533,7 @@ UniqueID=D58E7478-7FEE-48D8-946C-AE2E6AE8F598
 Description=Quail_3.1_Rev1
 AllowFabrication=0
 ParameterCount=0
-VariationCount=58
+VariationCount=67
 Variation1=Designator=TP43|UniqueId=\PMCPCFFQ|Kind=1|AlternatePart= 
 Variation2=Designator=TP42|UniqueId=\XHUAUBTD|Kind=1|AlternatePart= 
 Variation3=Designator=TP41|UniqueId=\NRDDAWWN|Kind=1|AlternatePart= 
@@ -592,6 +592,15 @@ Variation55=Designator=C72|UniqueId=\XCBFITFA\QRZMOBPC|Kind=1|AlternatePart=
 Variation56=Designator=R90|UniqueId=\XCBFITFA\IJYBPSUQ|Kind=1|AlternatePart= 
 Variation57=Designator=CANA1|UniqueId=\XCBFITFA\CFWWGPGD|Kind=1|AlternatePart= 
 Variation58=Designator=J24|UniqueId=\XCBFITFA\KIPRSLGP|Kind=1|AlternatePart= 
+Variation59=Designator=J2|UniqueId=\FGGPSFHV\EBVZMNHK|Kind=1|AlternatePart= 
+Variation60=Designator=H1|UniqueId=\MBIBXYHL|Kind=1|AlternatePart= 
+Variation61=Designator=H2|UniqueId=\PQADIEZU|Kind=1|AlternatePart= 
+Variation62=Designator=H3|UniqueId=\TPJGIFVH|Kind=1|AlternatePart= 
+Variation63=Designator=H4|UniqueId=\HIMTQMWC|Kind=1|AlternatePart= 
+Variation64=Designator=H5|UniqueId=\TLZNQNVM|Kind=1|AlternatePart= 
+Variation65=Designator=H6|UniqueId=\DJYNGIKG|Kind=1|AlternatePart= 
+Variation66=Designator=H7|UniqueId=\GKUNYSNY|Kind=1|AlternatePart= 
+Variation67=Designator=H8|UniqueId=\HBUQRBNO|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -631,34 +640,38 @@ DocumentPath=Project Outputs for Quail_3.1\GerberX2\Quail_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Quail_3.1\GerberX2\Quail_Legend_Top.gbr
+DocumentPath=Project Outputs for Quail_3.1\GerberX2\Quail_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Quail_3.1\GerberX2\Quail_NPTH_Drill.gbr
+DocumentPath=Project Outputs for Quail_3.1\GerberX2\Quail_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Quail_3.1\GerberX2\Quail_Paste_Bot.gbr
+DocumentPath=Project Outputs for Quail_3.1\GerberX2\Quail_NPTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Quail_3.1\GerberX2\Quail_Paste_Top.gbr
+DocumentPath=Project Outputs for Quail_3.1\GerberX2\Quail_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Quail_3.1\GerberX2\Quail_Profile.gbr
+DocumentPath=Project Outputs for Quail_3.1\GerberX2\Quail_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Quail_3.1\GerberX2\Quail_PTH_Drill.gbr
+DocumentPath=Project Outputs for Quail_3.1\GerberX2\Quail_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Quail_3.1\GerberX2\Quail_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for Quail_3.1\GerberX2\Quail_PTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument17]
+DocumentPath=Project Outputs for Quail_3.1\GerberX2\Quail_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument18]
 DocumentPath=Project Outputs for Quail_3.1\GerberX2\Quail_Soldermask_Top.gbr
 DItemRevisionGUID=
 
