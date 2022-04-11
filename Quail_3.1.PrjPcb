@@ -533,7 +533,7 @@ UniqueID=D58E7478-7FEE-48D8-946C-AE2E6AE8F598
 Description=Quail_3.1_Rev1
 AllowFabrication=0
 ParameterCount=0
-VariationCount=67
+VariationCount=70
 Variation1=Designator=TP43|UniqueId=\PMCPCFFQ|Kind=1|AlternatePart= 
 Variation2=Designator=TP42|UniqueId=\XHUAUBTD|Kind=1|AlternatePart= 
 Variation3=Designator=TP41|UniqueId=\NRDDAWWN|Kind=1|AlternatePart= 
@@ -601,7 +601,118 @@ Variation64=Designator=H5|UniqueId=\TLZNQNVM|Kind=1|AlternatePart=
 Variation65=Designator=H6|UniqueId=\DJYNGIKG|Kind=1|AlternatePart= 
 Variation66=Designator=H7|UniqueId=\GKUNYSNY|Kind=1|AlternatePart= 
 Variation67=Designator=H8|UniqueId=\HBUQRBNO|Kind=1|AlternatePart= 
-ParamVariationCount=0
+Variation68=Designator=R29A|UniqueId=\PWEFRNVL\LWVBZXTX\RQUPBJRY|Kind=2|AlternatePart=ERJPB3B2492V|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=Stanford Student Space Initiative|AltLibLink_SymbolReference=CMP-00033-1|AltLibLink_DesignItemID=CMP-00033-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Stanford Student Space Initiative|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=6fab6a0b-9cc4-4c5b-93ca-7dffd8c87e71|AltLibLink_ItemGUID=83973d15-9d99-4ddc-b42e-c46afc8e5723|AltLibLink_RevisionGUID=44819260-9e5c-40ba-99cd-1a0769863d2d|AltLibLink_Footprint=R0603|AltLibLink_IsSameFootprint=True
+ParamVariation1=ParameterName=Case/Package|VariantValue=0603
+ParamDesignator1=R29A
+ParamVariation2=ParameterName=Case Code (Imperial)|VariantValue=0603
+ParamDesignator2=R29A
+ParamVariation3=ParameterName=Case Code (Metric)|VariantValue=1608
+ParamDesignator3=R29A
+ParamVariation4=ParameterName=Comment|VariantValue=ERJPB3B2492V
+ParamDesignator4=R29A
+ParamVariation5=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator5=R29A
+ParamVariation6=ParameterName=Description|VariantValue=Res Thick Film 0603 24.9K Ohm 0.1% 0.2W(1/5W) ±50ppm/C Pad SMD Automotive T/R
+ParamDesignator6=R29A
+ParamVariation7=ParameterName=Features|VariantValue=Automotive AEC-Q200
+ParamDesignator7=R29A
+ParamVariation8=ParameterName=Footprint|VariantValue=R0603
+ParamDesignator8=R29A
+ParamVariation9=ParameterName=Height - Seated (Max)|VariantValue=0.022inch
+ParamDesignator9=R29A
+ParamVariation10=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator10=R29A
+ParamVariation11=ParameterName=Length|VariantValue=0.063inch
+ParamDesignator11=R29A
+ParamVariation12=ParameterName=Library Reference|VariantValue=CMP-00033-1
+ParamDesignator12=R29A
+ParamVariation13=ParameterName=Max Operating Temperature|VariantValue=155°C
+ParamDesignator13=R29A
+ParamVariation14=ParameterName=Max Power Dissipation|VariantValue=200mW
+ParamDesignator14=R29A
+ParamVariation15=ParameterName=Min Operating Temperature|VariantValue=-55°C
+ParamDesignator15=R29A
+ParamVariation16=ParameterName=Number of Terminations|VariantValue=2
+ParamDesignator16=R29A
+ParamVariation17=ParameterName=Packaging|VariantValue=Tape and Reel
+ParamDesignator17=R29A
+ParamVariation18=ParameterName=PCB3D|VariantValue= 
+ParamDesignator18=R29A
+ParamVariation19=ParameterName=Pin Info|VariantValue= 
+ParamDesignator19=R29A
+ParamVariation20=ParameterName=Resistance|VariantValue=24.9kR
+ParamDesignator20=R29A
+ParamVariation21=ParameterName=Resistor Type|VariantValue=Thick Film
+ParamDesignator21=R29A
+ParamVariation22=ParameterName=RoHS Compliant|VariantValue=Yes
+ParamDesignator22=R29A
+ParamVariation23=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator23=R29A
+ParamVariation24=ParameterName=Simulation|VariantValue= 
+ParamDesignator24=R29A
+ParamVariation25=ParameterName=Temperature Coefficient|VariantValue=50ppm/°C
+ParamDesignator25=R29A
+ParamVariation26=ParameterName=Tolerance|VariantValue=0.1%
+ParamDesignator26=R29A
+ParamVariation27=ParameterName=Width|VariantValue=0.032inch
+ParamDesignator27=R29A
+Variation69=Designator=R29B|UniqueId=\PWEFRNVL\ZLKCZTRW\RQUPBJRY|Kind=2|AlternatePart=ERJPB3B2492V|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=Stanford Student Space Initiative|AltLibLink_SymbolReference=CMP-00033-1|AltLibLink_DesignItemID=CMP-00033-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Stanford Student Space Initiative|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=6fab6a0b-9cc4-4c5b-93ca-7dffd8c87e71|AltLibLink_ItemGUID=83973d15-9d99-4ddc-b42e-c46afc8e5723|AltLibLink_RevisionGUID=44819260-9e5c-40ba-99cd-1a0769863d2d|AltLibLink_Footprint=R0603|AltLibLink_IsSameFootprint=True
+ParamVariation28=ParameterName=Case/Package|VariantValue=0603
+ParamDesignator28=R29B
+ParamVariation29=ParameterName=Case Code (Imperial)|VariantValue=0603
+ParamDesignator29=R29B
+ParamVariation30=ParameterName=Case Code (Metric)|VariantValue=1608
+ParamDesignator30=R29B
+ParamVariation31=ParameterName=Comment|VariantValue=ERJPB3B2492V
+ParamDesignator31=R29B
+ParamVariation32=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator32=R29B
+ParamVariation33=ParameterName=Description|VariantValue=Res Thick Film 0603 24.9K Ohm 0.1% 0.2W(1/5W) ±50ppm/C Pad SMD Automotive T/R
+ParamDesignator33=R29B
+ParamVariation34=ParameterName=Features|VariantValue=Automotive AEC-Q200
+ParamDesignator34=R29B
+ParamVariation35=ParameterName=Footprint|VariantValue=R0603
+ParamDesignator35=R29B
+ParamVariation36=ParameterName=Height - Seated (Max)|VariantValue=0.022inch
+ParamDesignator36=R29B
+ParamVariation37=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator37=R29B
+ParamVariation38=ParameterName=Length|VariantValue=0.063inch
+ParamDesignator38=R29B
+ParamVariation39=ParameterName=Library Reference|VariantValue=CMP-00033-1
+ParamDesignator39=R29B
+ParamVariation40=ParameterName=Max Operating Temperature|VariantValue=155°C
+ParamDesignator40=R29B
+ParamVariation41=ParameterName=Max Power Dissipation|VariantValue=200mW
+ParamDesignator41=R29B
+ParamVariation42=ParameterName=Min Operating Temperature|VariantValue=-55°C
+ParamDesignator42=R29B
+ParamVariation43=ParameterName=Number of Terminations|VariantValue=2
+ParamDesignator43=R29B
+ParamVariation44=ParameterName=Packaging|VariantValue=Tape and Reel
+ParamDesignator44=R29B
+ParamVariation45=ParameterName=PCB3D|VariantValue= 
+ParamDesignator45=R29B
+ParamVariation46=ParameterName=Pin Info|VariantValue= 
+ParamDesignator46=R29B
+ParamVariation47=ParameterName=Resistance|VariantValue=24.9kR
+ParamDesignator47=R29B
+ParamVariation48=ParameterName=Resistor Type|VariantValue=Thick Film
+ParamDesignator48=R29B
+ParamVariation49=ParameterName=RoHS Compliant|VariantValue=Yes
+ParamDesignator49=R29B
+ParamVariation50=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator50=R29B
+ParamVariation51=ParameterName=Simulation|VariantValue= 
+ParamDesignator51=R29B
+ParamVariation52=ParameterName=Temperature Coefficient|VariantValue=50ppm/°C
+ParamDesignator52=R29B
+ParamVariation53=ParameterName=Tolerance|VariantValue=0.1%
+ParamDesignator53=R29B
+ParamVariation54=ParameterName=Width|VariantValue=0.032inch
+ParamDesignator54=R29B
+Variation70=Designator=U20|UniqueId=\JLFREXEZ\AKPZDQNU|Kind=1|AlternatePart= 
+ParamVariationCount=54
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Quail_3.1\GerberX2\Quail.EXTREP
@@ -616,62 +727,58 @@ DocumentPath=Project Outputs for Quail_3.1\GerberX2\Quail.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Quail_3.0\ExportSTEP\Quail.step
-DItemRevisionGUID=
-
-[GeneratedDocument5]
 DocumentPath=Project Outputs for Quail_3.1\ExportSTEP\Quail.step
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for Quail_3.1\GerberX2\Quail_Copper_Signal_1.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for Quail_3.1\GerberX2\Quail_Copper_Signal_2.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for Quail_3.1\GerberX2\Quail_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for Quail_3.1\GerberX2\Quail_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for Quail_3.1\GerberX2\Quail_Legend_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for Quail_3.1\GerberX2\Quail_Legend_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for Quail_3.1\GerberX2\Quail_NPTH_Drill.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for Quail_3.1\GerberX2\Quail_Paste_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for Quail_3.1\GerberX2\Quail_Paste_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for Quail_3.1\GerberX2\Quail_Profile.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for Quail_3.1\GerberX2\Quail_PTH_Drill.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for Quail_3.1\GerberX2\Quail_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for Quail_3.1\GerberX2\Quail_Soldermask_Top.gbr
 DItemRevisionGUID=
 
