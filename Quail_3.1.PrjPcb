@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 IsVirtualBomDocumentRemoved=0
-OutputPath=Project Outputs for Quail_3.1
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=A4180622-B685-46FF-9D37-55B274792CA9
 VaultGUID=6fab6a0b-9cc4-4c5b-93ca-7dffd8c87e71
@@ -533,7 +533,7 @@ UniqueID=D58E7478-7FEE-48D8-946C-AE2E6AE8F598
 Description=Quail_3.1_Rev1
 AllowFabrication=0
 ParameterCount=0
-VariationCount=70
+VariationCount=75
 Variation1=Designator=TP43|UniqueId=\PMCPCFFQ|Kind=1|AlternatePart= 
 Variation2=Designator=TP42|UniqueId=\XHUAUBTD|Kind=1|AlternatePart= 
 Variation3=Designator=TP41|UniqueId=\NRDDAWWN|Kind=1|AlternatePart= 
@@ -602,13 +602,13 @@ Variation65=Designator=H6|UniqueId=\DJYNGIKG|Kind=1|AlternatePart=
 Variation66=Designator=H7|UniqueId=\GKUNYSNY|Kind=1|AlternatePart= 
 Variation67=Designator=H8|UniqueId=\HBUQRBNO|Kind=1|AlternatePart= 
 Variation68=Designator=R29A|UniqueId=\PWEFRNVL\LWVBZXTX\RQUPBJRY|Kind=2|AlternatePart=ERJPB3B2492V|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=Stanford Student Space Initiative|AltLibLink_SymbolReference=CMP-00033-1|AltLibLink_DesignItemID=CMP-00033-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Stanford Student Space Initiative|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=6fab6a0b-9cc4-4c5b-93ca-7dffd8c87e71|AltLibLink_ItemGUID=83973d15-9d99-4ddc-b42e-c46afc8e5723|AltLibLink_RevisionGUID=44819260-9e5c-40ba-99cd-1a0769863d2d|AltLibLink_Footprint=R0603|AltLibLink_IsSameFootprint=True
-ParamVariation1=ParameterName=Case/Package|VariantValue=0603
+ParamVariation1=ParameterName=Comment|VariantValue=ERJPB3B2492V
 ParamDesignator1=R29A
-ParamVariation2=ParameterName=Case Code (Imperial)|VariantValue=0603
+ParamVariation2=ParameterName=Case/Package|VariantValue=0603
 ParamDesignator2=R29A
-ParamVariation3=ParameterName=Case Code (Metric)|VariantValue=1608
+ParamVariation3=ParameterName=Case Code (Imperial)|VariantValue=0603
 ParamDesignator3=R29A
-ParamVariation4=ParameterName=Comment|VariantValue=ERJPB3B2492V
+ParamVariation4=ParameterName=Case Code (Metric)|VariantValue=1608
 ParamDesignator4=R29A
 ParamVariation5=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator5=R29A
@@ -657,13 +657,13 @@ ParamDesignator26=R29A
 ParamVariation27=ParameterName=Width|VariantValue=0.032inch
 ParamDesignator27=R29A
 Variation69=Designator=R29B|UniqueId=\PWEFRNVL\ZLKCZTRW\RQUPBJRY|Kind=2|AlternatePart=ERJPB3B2492V|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=Stanford Student Space Initiative|AltLibLink_SymbolReference=CMP-00033-1|AltLibLink_DesignItemID=CMP-00033-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Stanford Student Space Initiative|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=6fab6a0b-9cc4-4c5b-93ca-7dffd8c87e71|AltLibLink_ItemGUID=83973d15-9d99-4ddc-b42e-c46afc8e5723|AltLibLink_RevisionGUID=44819260-9e5c-40ba-99cd-1a0769863d2d|AltLibLink_Footprint=R0603|AltLibLink_IsSameFootprint=True
-ParamVariation28=ParameterName=Case/Package|VariantValue=0603
+ParamVariation28=ParameterName=Comment|VariantValue=ERJPB3B2492V
 ParamDesignator28=R29B
-ParamVariation29=ParameterName=Case Code (Imperial)|VariantValue=0603
+ParamVariation29=ParameterName=Case/Package|VariantValue=0603
 ParamDesignator29=R29B
-ParamVariation30=ParameterName=Case Code (Metric)|VariantValue=1608
+ParamVariation30=ParameterName=Case Code (Imperial)|VariantValue=0603
 ParamDesignator30=R29B
-ParamVariation31=ParameterName=Comment|VariantValue=ERJPB3B2492V
+ParamVariation31=ParameterName=Case Code (Metric)|VariantValue=1608
 ParamDesignator31=R29B
 ParamVariation32=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator32=R29B
@@ -712,7 +712,162 @@ ParamDesignator53=R29B
 ParamVariation54=ParameterName=Width|VariantValue=0.032inch
 ParamDesignator54=R29B
 Variation70=Designator=U20|UniqueId=\JLFREXEZ\AKPZDQNU|Kind=1|AlternatePart= 
-ParamVariationCount=54
+Variation71=Designator=C69|UniqueId=\XPGRJIVV\SGBEJSHN|Kind=2|AlternatePart=490-13248-1-ND|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=Stanford Student Space Initiative|AltLibLink_SymbolReference=CMP-119-0071-1|AltLibLink_DesignItemID=CMP-119-0071-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Stanford Student Space Initiative|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=6fab6a0b-9cc4-4c5b-93ca-7dffd8c87e71|AltLibLink_ItemGUID=2A1E5A7C-81F8-4A8C-A255-07B60A39A9AC|AltLibLink_RevisionGUID=044FB71E-430A-4175-8C7E-23D78AFA5633|AltLibLink_Footprint=C0603|AltLibLink_IsSameFootprint=True
+ParamVariation55=ParameterName=Capacitance (shorthand)|VariantValue=10µF
+ParamDesignator55=C69
+ParamVariation56=ParameterName=Capacitance - pF (Machine readable)|VariantValue=#NAME?
+ParamDesignator56=C69
+ParamVariation57=ParameterName=Comment|VariantValue=490-13248-1-ND
+ParamDesignator57=C69
+ParamVariation58=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator58=C69
+ParamVariation59=ParameterName=Description|VariantValue=CAP CER 10UF 35V X5R 0603 20%
+ParamDesignator59=C69
+ParamVariation60=ParameterName=Dielectric|VariantValue=X5R
+ParamDesignator60=C69
+ParamVariation61=ParameterName=Footprint|VariantValue=C0603
+ParamDesignator61=C69
+ParamVariation62=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator62=C69
+ParamVariation63=ParameterName=Library Reference|VariantValue=CMP-119-0071-1
+ParamDesignator63=C69
+ParamVariation64=ParameterName=Manufacturer|VariantValue=Murata Electronics North America
+ParamDesignator64=C69
+ParamVariation65=ParameterName=PCB3D|VariantValue= 
+ParamDesignator65=C69
+ParamVariation66=ParameterName=Pin Info|VariantValue= 
+ParamDesignator66=C69
+ParamVariation67=ParameterName=Rated Voltage|VariantValue=35V
+ParamDesignator67=C69
+ParamVariation68=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator68=C69
+ParamVariation69=ParameterName=Simulation|VariantValue= 
+ParamDesignator69=C69
+Variation72=Designator=C45A|UniqueId=\PWEFRNVL\LWVBZXTX\DGECXJZY|Kind=2|AlternatePart=490-1519-1-ND|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=Stanford Student Space Initiative|AltLibLink_SymbolReference=CMP-119-0065-1|AltLibLink_DesignItemID=CMP-119-0065-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Stanford Student Space Initiative|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=6fab6a0b-9cc4-4c5b-93ca-7dffd8c87e71|AltLibLink_ItemGUID=1F94D68E-D1A1-4464-B40B-B36A0BB737A4|AltLibLink_RevisionGUID=E9316C0B-6C0D-4ABF-9459-C0EF6FB0D047|AltLibLink_Footprint=C0603|AltLibLink_IsSameFootprint=True
+ParamVariation70=ParameterName=Capacitance (shorthand)|VariantValue=0.1µF
+ParamDesignator70=C45A
+ParamVariation71=ParameterName=Capacitance - pF (Machine readable)|VariantValue=#NAME?
+ParamDesignator71=C45A
+ParamVariation72=ParameterName=Comment|VariantValue=490-1519-1-ND
+ParamDesignator72=C45A
+ParamVariation73=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator73=C45A
+ParamVariation74=ParameterName=Description|VariantValue=CAP CER 0603 0.1µF X7R 50V 10%
+ParamDesignator74=C45A
+ParamVariation75=ParameterName=Dielectric|VariantValue=X7R
+ParamDesignator75=C45A
+ParamVariation76=ParameterName=Footprint|VariantValue=C0603
+ParamDesignator76=C45A
+ParamVariation77=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator77=C45A
+ParamVariation78=ParameterName=Library Reference|VariantValue=CMP-119-0065-1
+ParamDesignator78=C45A
+ParamVariation79=ParameterName=Manufacturer|VariantValue=Murata Electronics North America
+ParamDesignator79=C45A
+ParamVariation80=ParameterName=PCB3D|VariantValue= 
+ParamDesignator80=C45A
+ParamVariation81=ParameterName=Pin Info|VariantValue= 
+ParamDesignator81=C45A
+ParamVariation82=ParameterName=Rated Voltage|VariantValue=50V
+ParamDesignator82=C45A
+ParamVariation83=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator83=C45A
+ParamVariation84=ParameterName=Simulation|VariantValue= 
+ParamDesignator84=C45A
+Variation73=Designator=C45B|UniqueId=\PWEFRNVL\ZLKCZTRW\DGECXJZY|Kind=2|AlternatePart=490-1519-1-ND|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=Stanford Student Space Initiative|AltLibLink_SymbolReference=CMP-119-0065-1|AltLibLink_DesignItemID=CMP-119-0065-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Stanford Student Space Initiative|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=6fab6a0b-9cc4-4c5b-93ca-7dffd8c87e71|AltLibLink_ItemGUID=1F94D68E-D1A1-4464-B40B-B36A0BB737A4|AltLibLink_RevisionGUID=E9316C0B-6C0D-4ABF-9459-C0EF6FB0D047|AltLibLink_Footprint=C0603|AltLibLink_IsSameFootprint=True
+ParamVariation85=ParameterName=Capacitance (shorthand)|VariantValue=0.1µF
+ParamDesignator85=C45B
+ParamVariation86=ParameterName=Capacitance - pF (Machine readable)|VariantValue=#NAME?
+ParamDesignator86=C45B
+ParamVariation87=ParameterName=Comment|VariantValue=490-1519-1-ND
+ParamDesignator87=C45B
+ParamVariation88=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator88=C45B
+ParamVariation89=ParameterName=Description|VariantValue=CAP CER 0603 0.1µF X7R 50V 10%
+ParamDesignator89=C45B
+ParamVariation90=ParameterName=Dielectric|VariantValue=X7R
+ParamDesignator90=C45B
+ParamVariation91=ParameterName=Footprint|VariantValue=C0603
+ParamDesignator91=C45B
+ParamVariation92=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator92=C45B
+ParamVariation93=ParameterName=Library Reference|VariantValue=CMP-119-0065-1
+ParamDesignator93=C45B
+ParamVariation94=ParameterName=Manufacturer|VariantValue=Murata Electronics North America
+ParamDesignator94=C45B
+ParamVariation95=ParameterName=PCB3D|VariantValue= 
+ParamDesignator95=C45B
+ParamVariation96=ParameterName=Pin Info|VariantValue= 
+ParamDesignator96=C45B
+ParamVariation97=ParameterName=Rated Voltage|VariantValue=50V
+ParamDesignator97=C45B
+ParamVariation98=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator98=C45B
+ParamVariation99=ParameterName=Simulation|VariantValue= 
+ParamDesignator99=C45B
+Variation74=Designator=C47B|UniqueId=\PWEFRNVL\ZLKCZTRW\ZYBTHXPD|Kind=2|AlternatePart=490-1519-1-ND|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=Stanford Student Space Initiative|AltLibLink_SymbolReference=CMP-119-0065-1|AltLibLink_DesignItemID=CMP-119-0065-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Stanford Student Space Initiative|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=6fab6a0b-9cc4-4c5b-93ca-7dffd8c87e71|AltLibLink_ItemGUID=1F94D68E-D1A1-4464-B40B-B36A0BB737A4|AltLibLink_RevisionGUID=E9316C0B-6C0D-4ABF-9459-C0EF6FB0D047|AltLibLink_Footprint=C0603|AltLibLink_IsSameFootprint=True
+ParamVariation100=ParameterName=Capacitance (shorthand)|VariantValue=0.1µF
+ParamDesignator100=C47B
+ParamVariation101=ParameterName=Capacitance - pF (Machine readable)|VariantValue=#NAME?
+ParamDesignator101=C47B
+ParamVariation102=ParameterName=Comment|VariantValue=490-1519-1-ND
+ParamDesignator102=C47B
+ParamVariation103=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator103=C47B
+ParamVariation104=ParameterName=Description|VariantValue=CAP CER 0603 0.1µF X7R 50V 10%
+ParamDesignator104=C47B
+ParamVariation105=ParameterName=Dielectric|VariantValue=X7R
+ParamDesignator105=C47B
+ParamVariation106=ParameterName=Footprint|VariantValue=C0603
+ParamDesignator106=C47B
+ParamVariation107=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator107=C47B
+ParamVariation108=ParameterName=Library Reference|VariantValue=CMP-119-0065-1
+ParamDesignator108=C47B
+ParamVariation109=ParameterName=Manufacturer|VariantValue=Murata Electronics North America
+ParamDesignator109=C47B
+ParamVariation110=ParameterName=PCB3D|VariantValue= 
+ParamDesignator110=C47B
+ParamVariation111=ParameterName=Pin Info|VariantValue= 
+ParamDesignator111=C47B
+ParamVariation112=ParameterName=Rated Voltage|VariantValue=50V
+ParamDesignator112=C47B
+ParamVariation113=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator113=C47B
+ParamVariation114=ParameterName=Simulation|VariantValue= 
+ParamDesignator114=C47B
+Variation75=Designator=C47A|UniqueId=\PWEFRNVL\LWVBZXTX\ZYBTHXPD|Kind=2|AlternatePart=490-1519-1-ND|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=Stanford Student Space Initiative|AltLibLink_SymbolReference=CMP-119-0065-1|AltLibLink_DesignItemID=CMP-119-0065-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Stanford Student Space Initiative|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=6fab6a0b-9cc4-4c5b-93ca-7dffd8c87e71|AltLibLink_ItemGUID=1F94D68E-D1A1-4464-B40B-B36A0BB737A4|AltLibLink_RevisionGUID=E9316C0B-6C0D-4ABF-9459-C0EF6FB0D047|AltLibLink_Footprint=C0603|AltLibLink_IsSameFootprint=True
+ParamVariation115=ParameterName=Capacitance (shorthand)|VariantValue=0.1µF
+ParamDesignator115=C47A
+ParamVariation116=ParameterName=Capacitance - pF (Machine readable)|VariantValue=#NAME?
+ParamDesignator116=C47A
+ParamVariation117=ParameterName=Comment|VariantValue=490-1519-1-ND
+ParamDesignator117=C47A
+ParamVariation118=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator118=C47A
+ParamVariation119=ParameterName=Description|VariantValue=CAP CER 0603 0.1µF X7R 50V 10%
+ParamDesignator119=C47A
+ParamVariation120=ParameterName=Dielectric|VariantValue=X7R
+ParamDesignator120=C47A
+ParamVariation121=ParameterName=Footprint|VariantValue=C0603
+ParamDesignator121=C47A
+ParamVariation122=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator122=C47A
+ParamVariation123=ParameterName=Library Reference|VariantValue=CMP-119-0065-1
+ParamDesignator123=C47A
+ParamVariation124=ParameterName=Manufacturer|VariantValue=Murata Electronics North America
+ParamDesignator124=C47A
+ParamVariation125=ParameterName=PCB3D|VariantValue= 
+ParamDesignator125=C47A
+ParamVariation126=ParameterName=Pin Info|VariantValue= 
+ParamDesignator126=C47A
+ParamVariation127=ParameterName=Rated Voltage|VariantValue=50V
+ParamDesignator127=C47A
+ParamVariation128=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator128=C47A
+ParamVariation129=ParameterName=Simulation|VariantValue= 
+ParamDesignator129=C47A
+ParamVariationCount=129
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Quail_3.1\GerberX2\Quail.EXTREP
@@ -853,7 +1008,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for Quail_3.1
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
